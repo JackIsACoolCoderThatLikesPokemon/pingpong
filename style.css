@@ -1,0 +1,36 @@
+#heading {
+    width: 100%
+}
+
+h3{
+    float: left;
+    display: inline;
+}
+
+#in{
+    float:right;
+    display:inline;
+}
+
+.bigimage {
+    width:100%;
+}
+
+#credit {
+    background-color: rgb(233, 209, 255);
+    line-height: 2;
+    margin: 0px;
+}
+
+#modal-dialog {
+    width: 90%;
+}
+
+#myModal {
+    background-color: rgb(255, 255, 255);
+}
+
+.instru {
+    width: 45%;
+    inline-size: block;
+}
